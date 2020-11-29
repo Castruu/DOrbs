@@ -1,0 +1,24 @@
+###Created By Castruu;
+
+usemysql: false
+usesqlite: false
+
+mysql:
+  host: 'localhost'
+  database: 'orbs'
+  username: 'localhost'
+  password: ''
+  port: 3306
+
+
+orb:
+  allowtrading: false
+  tpamount: 500
+  item: 14
+  data: 0
+  name: '&5Orb de TP'
+  lore:
+    - '&4Orb De TP'
+    - '&2Troque por TP'
+    - '&7Sua quantia -> &3%orbamount%'
+    - '&1Clique aqui!'
